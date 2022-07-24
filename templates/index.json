@@ -1,44 +1,36 @@
 {
   "sections": {
-    "16586593256189e8b0": {
-      "type": "c-bannar",
-      "blocks": {
-        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd": {
-          "type": "BannarImage",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image-005.png"
-          }
-        },
-        "11f076e7-f39e-4329-aa5e-dd379c4dc32c": {
-          "type": "BannarImage",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image-002.png"
-          }
-        },
-        "610f87c4-e3b5-4aa7-a23a-fb63347c9e58": {
-          "type": "BannarImage",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image-001.png"
-          }
-        },
-        "9a2c6edd-e239-4717-a360-faaf48370e62": {
-          "type": "BannarImage",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image-003.png"
-          }
-        }
-      },
-      "block_order": [
-        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd",
-        "11f076e7-f39e-4329-aa5e-dd379c4dc32c",
-        "610f87c4-e3b5-4aa7-a23a-fb63347c9e58",
-        "9a2c6edd-e239-4717-a360-faaf48370e62"
-      ],
+    "featured-collection-1": {
+      "type": "featured-collection",
+      "disabled": true,
       "settings": {
+        "title": "Featured collection",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -81,31 +73,41 @@
         "padding_bottom": 32
       }
     },
-    "featured-collection-1": {
-      "type": "featured-collection",
+    "16586593256189e8b0": {
+      "type": "c-bannar",
+      "blocks": {
+        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd": {
+          "type": "BannarImage",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-005.png"
+          }
+        },
+        "11f076e7-f39e-4329-aa5e-dd379c4dc32c": {
+          "type": "BannarImage",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-002.png"
+          }
+        },
+        "610f87c4-e3b5-4aa7-a23a-fb63347c9e58": {
+          "type": "BannarImage",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-001.png"
+          }
+        },
+        "9a2c6edd-e239-4717-a360-faaf48370e62": {
+          "type": "BannarImage",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-003.png"
+          }
+        }
+      },
+      "block_order": [
+        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd",
+        "11f076e7-f39e-4329-aa5e-dd379c4dc32c",
+        "610f87c4-e3b5-4aa7-a23a-fb63347c9e58",
+        "9a2c6edd-e239-4717-a360-faaf48370e62"
+      ],
       "settings": {
-        "title": "Featured collection",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "portrait",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 32,
-        "padding_bottom": 32
       }
     },
     "16584330853aa457b6": {
@@ -171,7 +173,7 @@
         "16584330851218c37f-7"
       ],
       "settings": {
-        "product": "",
+        "product": "aji-tea",
         "color_scheme": "background-1",
         "secondary_background": false,
         "hide_variants": false,
@@ -179,12 +181,140 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16586965011c4726a4": {
+      "type": "NaturalOrganic",
+      "settings": {
+        "texta": "Natural Organic Coconut Products .",
+        "text1": "We love to get creative with coconuts. See all the fun ways we've turned them into healthy, tasty foods and treats",
+        "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
+      }
+    },
+    "16586966308118a476": {
+      "type": "featured-product",
+      "blocks": {
+        "16586966306addec05-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16586966306addec05-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "16586966306addec05-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16586966306addec05-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16586966306addec05-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16586966306addec05-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16586966306addec05-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16586966306addec05-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16586966306addec05-0",
+        "16586966306addec05-1",
+        "16586966306addec05-2",
+        "16586966306addec05-3",
+        "16586966306addec05-4",
+        "16586966306addec05-5",
+        "16586966306addec05-6",
+        "16586966306addec05-7"
+      ],
+      "settings": {
+        "product": "aji-tea-12pack",
+        "color_scheme": "accent-2",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16586967202ba29786": {
+      "type": "custome-review",
+      "blocks": {
+        "6ce533a2-c15f-4ebd-906d-055c7ed97276": {
+          "type": "customer",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image1.jpg",
+            "text1": "Rudy",
+            "text2": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products"
+          }
+        },
+        "2c9ab869-552f-4a90-a8b0-fe9c77aebc05": {
+          "type": "customer",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image2.jpg",
+            "text1": "Rudy",
+            "text2": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products"
+          }
+        }
+      },
+      "block_order": [
+        "6ce533a2-c15f-4ebd-906d-055c7ed97276",
+        "2c9ab869-552f-4a90-a8b0-fe9c77aebc05"
+      ],
+      "settings": {
+        "text": "WHAT DOES EVERYONE ELSE SAY?"
+      }
+    },
+    "165869697357a96e77": {
+      "type": "NaturalOrganic",
+      "settings": {
+        "texta": "",
+        "text1": "",
+        "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Mission.jpg"
+      }
+    },
+    "16586970186ec21839": {
+      "type": "customenewlatter",
+      "settings": {
+        "text": "Subscribe to Newsletters",
+        "text1": "And stay informed about our news and events"
+      }
     }
   },
   "order": [
-    "16586593256189e8b0",
-    "image-with-text",
     "featured-collection-1",
-    "16584330853aa457b6"
+    "image-with-text",
+    "16586593256189e8b0",
+    "16584330853aa457b6",
+    "16586965011c4726a4",
+    "16586966308118a476",
+    "16586967202ba29786",
+    "165869697357a96e77",
+    "16586970186ec21839"
   ]
 }
