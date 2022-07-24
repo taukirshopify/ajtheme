@@ -1,0 +1,45 @@
+<div class="aj-bannar-wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="fadea">
+             {% for c in section.settings.blocks %}
+                
+            
+            <div class="singel-bannar">
+              <img src="{{ c.settings.img | img_url: '' }}" alt="{{img.alt}}" />
+            </div>
+       
+        {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+{% schema %}
+    {
+        "name": "Bannar",
+        "class": "bannar",
+        "blocks": [
+            {
+                "type": "BannarImage",
+                "name": "Bannar Image",
+                "settings": [
+                    {
+                        "type": "image_picker",
+                        "id": "img",
+                        "label": "Please select your Image"
+                     }
+                ]
+            }
+           ],      
+        "presets": [
+            {
+              "name": "Slideshow"
+            }
+          ]
+    }
+{% endschema %}
