@@ -19,9 +19,9 @@
 {%- endstyle -%}
 
 <div class="page-width page-width--narrow section-{{ section.id }}-padding">
-  <h1 class="main-page-title page-title h0">
+  <h4 class="customefont">
     {{section.settings.text}}
-  </h1>
+  </h4>
   <div class="rte">
     {{ page.content }}
   </div>
@@ -73,3 +73,11 @@
     ]
 }
 {% endschema %}
+
+
+
+<style>
+.customefont{
+ font-size:36px;
+}
+</style>
