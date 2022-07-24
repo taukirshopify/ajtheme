@@ -289,6 +289,20 @@
       "settings": {
         "text": "WHAT DOES EVERYONE ELSE SAY?"
       }
+    },
+    "165869697357a96e77": {
+      "type": "NaturalOrganic",
+      "settings": {
+        "texta": "",
+        "text1": ""
+      }
+    },
+    "16586970186ec21839": {
+      "type": "customenewlatter",
+      "settings": {
+        "text": "Subscribe to Newsletters",
+        "text1": "And stay informed about our news and events"
+      }
     }
   },
   "order": [
@@ -298,6 +312,8 @@
     "16584330853aa457b6",
     "16586965011c4726a4",
     "16586966308118a476",
-    "16586967202ba29786"
+    "16586967202ba29786",
+    "165869697357a96e77",
+    "16586970186ec21839"
   ]
 }
