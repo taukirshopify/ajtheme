@@ -265,14 +265,6 @@
     "16586967202ba29786": {
       "type": "custome-review",
       "blocks": {
-        "6ce533a2-c15f-4ebd-906d-055c7ed97276": {
-          "type": "customer",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image1.jpg",
-            "text1": "Rudy",
-            "text2": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products"
-          }
-        },
         "2c9ab869-552f-4a90-a8b0-fe9c77aebc05": {
           "type": "customer",
           "settings": {
@@ -280,11 +272,28 @@
             "text1": "Rudy",
             "text2": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products"
           }
+        },
+        "6ce533a2-c15f-4ebd-906d-055c7ed97276": {
+          "type": "customer",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/WhatsApp_Image_2022-07-25_at_4.32.28_AM.jpg",
+            "text1": "Rudy",
+            "text2": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products"
+          }
+        },
+        "1bb6aaf8-e175-4697-a6f4-490f64f2a56d": {
+          "type": "customer",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/WhatsApp_Image_2022-07-17_at_11.16.01_PM.jpg",
+            "text1": "Rudy",
+            "text2": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products"
+          }
         }
       },
       "block_order": [
+        "2c9ab869-552f-4a90-a8b0-fe9c77aebc05",
         "6ce533a2-c15f-4ebd-906d-055c7ed97276",
-        "2c9ab869-552f-4a90-a8b0-fe9c77aebc05"
+        "1bb6aaf8-e175-4697-a6f4-490f64f2a56d"
       ],
       "settings": {
         "text": "WHAT DOES EVERYONE ELSE SAY?"
