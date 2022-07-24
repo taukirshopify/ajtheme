@@ -1,5 +1,42 @@
 {
   "sections": {
+    "16586593256189e8b0": {
+      "type": "c-bannar",
+      "blocks": {
+        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd": {
+          "type": "BannarImage",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-005.png"
+          }
+        },
+        "11f076e7-f39e-4329-aa5e-dd379c4dc32c": {
+          "type": "BannarImage",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-002.png"
+          }
+        },
+        "610f87c4-e3b5-4aa7-a23a-fb63347c9e58": {
+          "type": "BannarImage",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-001.png"
+          }
+        },
+        "9a2c6edd-e239-4717-a360-faaf48370e62": {
+          "type": "BannarImage",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-003.png"
+          }
+        }
+      },
+      "block_order": [
+        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd",
+        "11f076e7-f39e-4329-aa5e-dd379c4dc32c",
+        "610f87c4-e3b5-4aa7-a23a-fb63347c9e58",
+        "9a2c6edd-e239-4717-a360-faaf48370e62"
+      ],
+      "settings": {
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -142,49 +179,12 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "16586593256189e8b0": {
-      "type": "c-bannar",
-      "blocks": {
-        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd": {
-          "type": "BannarImage",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image-005.png"
-          }
-        },
-        "11f076e7-f39e-4329-aa5e-dd379c4dc32c": {
-          "type": "BannarImage",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image-002.png"
-          }
-        },
-        "610f87c4-e3b5-4aa7-a23a-fb63347c9e58": {
-          "type": "BannarImage",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image-001.png"
-          }
-        },
-        "9a2c6edd-e239-4717-a360-faaf48370e62": {
-          "type": "BannarImage",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image-003.png"
-          }
-        }
-      },
-      "block_order": [
-        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd",
-        "11f076e7-f39e-4329-aa5e-dd379c4dc32c",
-        "610f87c4-e3b5-4aa7-a23a-fb63347c9e58",
-        "9a2c6edd-e239-4717-a360-faaf48370e62"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
+    "16586593256189e8b0",
     "image-with-text",
     "featured-collection-1",
-    "16584330853aa457b6",
-    "16586593256189e8b0"
+    "16584330853aa457b6"
   ]
 }
