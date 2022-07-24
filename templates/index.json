@@ -76,12 +76,6 @@
     "16586593256189e8b0": {
       "type": "c-bannar",
       "blocks": {
-        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd": {
-          "type": "BannarImage",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image-005.png"
-          }
-        },
         "11f076e7-f39e-4329-aa5e-dd379c4dc32c": {
           "type": "BannarImage",
           "settings": {
@@ -99,13 +93,19 @@
           "settings": {
             "img": "shopify:\/\/shop_images\/image-003.png"
           }
+        },
+        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd": {
+          "type": "BannarImage",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-005.png"
+          }
         }
       },
       "block_order": [
-        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd",
         "11f076e7-f39e-4329-aa5e-dd379c4dc32c",
         "610f87c4-e3b5-4aa7-a23a-fb63347c9e58",
-        "9a2c6edd-e239-4717-a360-faaf48370e62"
+        "9a2c6edd-e239-4717-a360-faaf48370e62",
+        "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd"
       ],
       "settings": {
       }
@@ -185,8 +185,8 @@
     "16586965011c4726a4": {
       "type": "NaturalOrganic",
       "settings": {
-        "text": "Natural Organic Coconut Products .",
-        "text1": "We love to get creative with coconuts. See all the fun ways we've turned them into healthy, tasty foods and treats",
+        "text": "Mission",
+        "text1": "To produce a holistic beverage with all natural ingredients featuring the healthy benefits of our proprietary blend of all natural Green Tea, Jasmine, and Honey. Our ready-to-drink ice tea focuses on improving health while offering health-conscious consumers an alternative to sugary and chemical loaded beverages. ",
         "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
       }
     },
@@ -265,26 +265,35 @@
     "16586967202ba29786": {
       "type": "custome-review",
       "blocks": {
-        "6ce533a2-c15f-4ebd-906d-055c7ed97276": {
-          "type": "customer",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/image1.jpg",
-            "text1": "Rudy",
-            "text2": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products"
-          }
-        },
         "2c9ab869-552f-4a90-a8b0-fe9c77aebc05": {
           "type": "customer",
           "settings": {
             "img": "shopify:\/\/shop_images\/image2.jpg",
             "text1": "Rudy",
-            "text2": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products"
+            "text2": "Six Element of a Cohesive Concept:  <br> • Pain point - to solve the problem that health conscious consumers face when choosing ready-to-consume beverages -Excellent taste with pure and all natural ingredients and a final product free of extra chemicals, toxins, full of sugar.  <br> • Value proposition - We help consumers by producing an all natural ice tea beverage that resonates with their desire to enjoy premium taste with a short list of all natural ingredients and a product that is free of added chemicals and sugar.  <br> • Product - Ready-to-consume Green Tea Beverage with Jasmine and Honey and free of added sugar, toxins, and chemicals <br> • Core consumer - Our core consumer is focused on healthy food choices that are sustainably grown, with all natural ingredients. They expect a consistent experience through consumption of quality beverages that address their health concerns, environmental concerns, and quality of life.  <br> • Market - Boutique, healthy, and all natural beverages  <br> • Brand - all natural Green Tea infused with wholesome and healthy notes provided by quality all natural Jasmine and Honey."
+          }
+        },
+        "6ce533a2-c15f-4ebd-906d-055c7ed97276": {
+          "type": "customer",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/WhatsApp_Image_2022-07-25_at_4.32.28_AM.jpg",
+            "text1": "Rudy",
+            "text2": "Six Element of a Cohesive Concept:  <br> • Pain point - to solve the problem that health conscious consumers face when choosing ready-to-consume beverages -Excellent taste with pure and all natural ingredients and a final product free of extra chemicals, toxins, full of sugar.  <br> • Value proposition - We help consumers by producing an all natural ice tea beverage that resonates with their desire to enjoy premium taste with a short list of all natural ingredients and a product that is free of added chemicals and sugar.  <br> • Product - Ready-to-consume Green Tea Beverage with Jasmine and Honey and free of added sugar, toxins, and chemicals <br> • Core consumer - Our core consumer is focused on healthy food choices that are sustainably grown, with all natural ingredients. They expect a consistent experience through consumption of quality beverages that address their health concerns, environmental concerns, and quality of life.  <br> • Market - Boutique, healthy, and all natural beverages  <br> • Brand - all natural Green Tea infused with wholesome and healthy notes provided by quality all natural Jasmine and Honey."
+          }
+        },
+        "1bb6aaf8-e175-4697-a6f4-490f64f2a56d": {
+          "type": "customer",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/WhatsApp_Image_2022-07-17_at_11.16.01_PM.jpg",
+            "text1": "Rudy",
+            "text2": "Six Element of a Cohesive Concept:  <br> • Pain point - to solve the problem that health conscious consumers face when choosing ready-to-consume beverages -Excellent taste with pure and all natural ingredients and a final product free of extra chemicals, toxins, full of sugar.  <br> • Value proposition - We help consumers by producing an all natural ice tea beverage that resonates with their desire to enjoy premium taste with a short list of all natural ingredients and a product that is free of added chemicals and sugar.  <br> • Product - Ready-to-consume Green Tea Beverage with Jasmine and Honey and free of added sugar, toxins, and chemicals <br> • Core consumer - Our core consumer is focused on healthy food choices that are sustainably grown, with all natural ingredients. They expect a consistent experience through consumption of quality beverages that address their health concerns, environmental concerns, and quality of life.  <br> • Market - Boutique, healthy, and all natural beverages  <br> • Brand - all natural Green Tea infused with wholesome and healthy notes provided by quality all natural Jasmine and Honey."
           }
         }
       },
       "block_order": [
+        "2c9ab869-552f-4a90-a8b0-fe9c77aebc05",
         "6ce533a2-c15f-4ebd-906d-055c7ed97276",
-        "2c9ab869-552f-4a90-a8b0-fe9c77aebc05"
+        "1bb6aaf8-e175-4697-a6f4-490f64f2a56d"
       ],
       "settings": {
         "text": "WHAT DOES EVERYONE ELSE SAY?"
@@ -293,8 +302,8 @@
     "165869697357a96e77": {
       "type": "NaturalOrganic",
       "settings": {
-        "text": "Natural Organic Coconut Products .",
-        "text1": "",
+        "text": "Core Values",
+        "text1": "We recognize the need for an all-natural ice tea beverage that focuses on remarkable taste without all the chemicals. Our own personal food-journey began by looking at what we consume and realizing that we could do better. We are what we eat and for that to be a positive end result, we needed to hone down the ingredient list to feature a simple list of all natural, healthy options without added sugar, salt, and chemicals. The result is an honest product that focuses on premium taste and health-loaded ingredients.   Honest - You shouldn't need a PhD in science and chemistry to read and understand the label of food products. Our product list features a short list of ingredients - Green Tea, Honey, and Jasmine blended together with purified water so that all the flavor remains without the need to add sugar.   Healthy - We want our Ice Tea to be a tonic that helps consumers take in vital nutrients without sacrificing taste. When you drink our Ice Tea you get all the healthy benefits of Green Tea, Honey, and Jasmine without the additional chemicals, dyes, and calories.   Sustainable - Each of the products on our list is grown in a sustainable process that adds a positive to the environment while producing choice grade ingredients. Our ecological approach means you not only receive a healthy beverage but also one that is healthy for the environment. ",
         "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Mission.jpg"
       }
     },
