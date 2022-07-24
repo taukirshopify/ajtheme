@@ -261,6 +261,34 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16586967202ba29786": {
+      "type": "custome-review",
+      "blocks": {
+        "6ce533a2-c15f-4ebd-906d-055c7ed97276": {
+          "type": "customer",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image1.jpg",
+            "text1": "Rudy",
+            "text2": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products"
+          }
+        },
+        "2c9ab869-552f-4a90-a8b0-fe9c77aebc05": {
+          "type": "customer",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image2.jpg",
+            "text1": "Rudy",
+            "text2": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products"
+          }
+        }
+      },
+      "block_order": [
+        "6ce533a2-c15f-4ebd-906d-055c7ed97276",
+        "2c9ab869-552f-4a90-a8b0-fe9c77aebc05"
+      ],
+      "settings": {
+        "text": "WHAT DOES EVERYONE ELSE SAY?"
+      }
     }
   },
   "order": [
@@ -269,6 +297,7 @@
     "16586593256189e8b0",
     "16584330853aa457b6",
     "16586965011c4726a4",
-    "16586966308118a476"
+    "16586966308118a476",
+    "16586967202ba29786"
   ]
 }
