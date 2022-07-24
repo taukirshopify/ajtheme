@@ -4,8 +4,15 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
-        "text": "Customers Inquiries to ajiteaus@gmail.com",
         "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "1658704421b3799805": {
+      "type": "Customemain-page",
+      "settings": {
+        "text": "Customers Inquiries to ajiteaus@gmail.com",
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -22,6 +29,7 @@
   },
   "order": [
     "main",
+    "1658704421b3799805",
     "form"
   ]
 }
