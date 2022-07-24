@@ -189,6 +189,78 @@
         "text1": "We love to get creative with coconuts. See all the fun ways we've turned them into healthy, tasty foods and treats",
         "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
       }
+    },
+    "16586966308118a476": {
+      "type": "featured-product",
+      "blocks": {
+        "16586966306addec05-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16586966306addec05-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "16586966306addec05-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16586966306addec05-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16586966306addec05-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16586966306addec05-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16586966306addec05-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16586966306addec05-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16586966306addec05-0",
+        "16586966306addec05-1",
+        "16586966306addec05-2",
+        "16586966306addec05-3",
+        "16586966306addec05-4",
+        "16586966306addec05-5",
+        "16586966306addec05-6",
+        "16586966306addec05-7"
+      ],
+      "settings": {
+        "product": "aji-tea-12pack",
+        "color_scheme": "accent-2",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -196,6 +268,7 @@
     "image-with-text",
     "16586593256189e8b0",
     "16584330853aa457b6",
-    "16586965011c4726a4"
+    "16586965011c4726a4",
+    "16586966308118a476"
   ]
 }
