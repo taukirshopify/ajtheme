@@ -3,11 +3,12 @@
       <div class="row">
         <div class="col-12">
           <div class="fadea">
-             {% for c in section.settings.blocks %}
+             {% for c in section.blocks %}
                 
             
             <div class="singel-bannar">
-              <img src="{{ c.settings.img | img_url: '' }}" alt="{{img.alt}}" />
+              <img src="{{ c.settings.img | img_url:'' }}"  class="lazy" alt="" />
+              
             </div>
        
         {% endfor %}
@@ -38,7 +39,7 @@
            ],      
         "presets": [
             {
-              "name": "Slideshow"
+              "name": "Custome Bannar"
             }
           ]
     }
