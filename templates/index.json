@@ -185,7 +185,7 @@
     "16586965011c4726a4": {
       "type": "NaturalOrganic",
       "settings": {
-        "texta": "Natural Organic Coconut Products .",
+        "text": "Natural Organic Coconut Products .",
         "text1": "We love to get creative with coconuts. See all the fun ways we've turned them into healthy, tasty foods and treats",
         "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
       }
@@ -293,7 +293,7 @@
     "165869697357a96e77": {
       "type": "NaturalOrganic",
       "settings": {
-        "texta": "",
+        "text": "Natural Organic Coconut Products .",
         "text1": "",
         "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Mission.jpg"
       }
@@ -303,6 +303,58 @@
       "settings": {
         "text": "Subscribe to Newsletters",
         "text1": "And stay informed about our news and events"
+      }
+    },
+    "1658698973c37072ae": {
+      "type": "customeintagram",
+      "blocks": {
+        "08d1168e-a542-42ac-87b9-ea1a41eaf42f": {
+          "type": "Instagram",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
+          }
+        },
+        "9df541d4-3728-4dd2-8d4a-4415bb75f881": {
+          "type": "Instagram",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
+          }
+        },
+        "151bbb85-7fc2-4cfa-8c99-99afa8a8c231": {
+          "type": "Instagram",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
+          }
+        },
+        "50c8158a-30c5-40b2-8442-ec42cf8815ee": {
+          "type": "Instagram",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
+          }
+        },
+        "c77d6b96-a6fb-4f12-a41e-e8eda0c45329": {
+          "type": "Instagram",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
+          }
+        },
+        "47a95e48-0db7-4a57-b71e-e57040fc30f9": {
+          "type": "Instagram",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "08d1168e-a542-42ac-87b9-ea1a41eaf42f",
+        "9df541d4-3728-4dd2-8d4a-4415bb75f881",
+        "151bbb85-7fc2-4cfa-8c99-99afa8a8c231",
+        "50c8158a-30c5-40b2-8442-ec42cf8815ee",
+        "c77d6b96-a6fb-4f12-a41e-e8eda0c45329",
+        "47a95e48-0db7-4a57-b71e-e57040fc30f9"
+      ],
+      "settings": {
+        "text": "Follow Us On Instagram"
       }
     }
   },
@@ -315,6 +367,7 @@
     "16586966308118a476",
     "16586967202ba29786",
     "165869697357a96e77",
-    "16586970186ec21839"
+    "16586970186ec21839",
+    "1658698973c37072ae"
   ]
 }
