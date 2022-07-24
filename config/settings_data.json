@@ -190,6 +190,15 @@
         "settings": {
           "color_scheme": "background-1"
         }
+      },
+      "cfooter": {
+        "type": "cfooter",
+        "settings": {
+          "footermenu": "footer",
+          "text": "Follow Us",
+          "social": "",
+          "social1": ""
+        }
       }
     },
     "content_for_index": [
