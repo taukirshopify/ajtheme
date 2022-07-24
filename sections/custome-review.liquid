@@ -1,0 +1,115 @@
+<div class="aj-review">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="review-title">
+            <h2>{{ section.settings.text }}</h2>
+          </div>
+        </div>
+        {% for c in section.blocks %}
+        <div class="col-lg-3 col-md-4 col-sm-6 col-12 p-0">
+          <div class="singelitem">
+            <img src="{{ c.settings.img | img_url:'' }}" alt="" />
+            <div class="review-content">
+              <h5>{{c.settings.text1}}</h5>
+              <div class="review-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                  xmlns:serif="http://www.serif.com/" width="100%" height="100%" viewBox="0 0 881 130" version="1.1"
+                  xml:space="preserve" style="
+                      fill-rule: evenodd;
+                      clip-rule: evenodd;
+                      stroke-linejoin: round;
+                      stroke-miterlimit: 2;
+                    ">
+                  <g transform="matrix(1,0,0,1,-634.728,-382.568)">
+                    <path
+                      d="M702.68,382.568L718.721,431.938L770.632,431.938L728.635,462.45L744.677,511.82L702.68,481.308L660.683,511.82L676.724,462.45L634.728,431.938L686.639,431.938L702.68,382.568Z"
+                      style="fill: rgb(255, 216, 0)" />
+                  </g>
+                  <g transform="matrix(1,0,0,1,-447.914,-382.568)">
+                    <path
+                      d="M702.68,382.568L718.721,431.938L770.632,431.938L728.635,462.45L744.677,511.82L702.68,481.308L660.683,511.82L676.724,462.45L634.728,431.938L686.639,431.938L702.68,382.568Z"
+                      style="fill: rgb(255, 216, 0)" />
+                  </g>
+                  <g transform="matrix(1,0,0,1,-261.961,-382.568)">
+                    <path
+                      d="M702.68,382.568L718.721,431.938L770.632,431.938L728.635,462.45L744.677,511.82L702.68,481.308L660.683,511.82L676.724,462.45L634.728,431.938L686.639,431.938L702.68,382.568Z"
+                      style="fill: rgb(255, 216, 0)" />
+                  </g>
+                  <g transform="matrix(1,0,0,1,-76.0238,-382.568)">
+                    <path
+                      d="M702.68,382.568L718.721,431.938L770.632,431.938L728.635,462.45L744.677,511.82L702.68,481.308L660.683,511.82L676.724,462.45L634.728,431.938L686.639,431.938L702.68,382.568Z"
+                      style="fill: rgb(255, 216, 0)" />
+                  </g>
+                  <g transform="matrix(1,0,0,1,109.853,-382.568)">
+                    <path
+                      d="M702.68,382.568L718.721,431.938L770.632,431.938L728.635,462.45L744.677,511.82L702.68,481.308L660.683,511.82L676.724,462.45L634.728,431.938L686.639,431.938L702.68,382.568Z"
+                      style="fill: rgb(255, 216, 0)" />
+                  </g>
+                </svg>
+              </div>
+              <p>
+                {{c.settings.text2}}
+                
+              </p>
+            </div>
+          </div>
+        </div>
+    {% endfor %}
+      </div>
+    </div>
+  </div> 
+
+
+  {% schema %}
+    {
+        "name": "Review Area",
+        "class": "review",
+        "settings": [
+         {
+            "type": "text",
+            "id": "text",
+            "label": "Please Select You text",
+            "default": "WHAT DOES EVERYONE ELSE SAY?",
+
+            "placeholder": "WHAT DOES EVERYONE ELSE SAY?"
+         }
+        ],
+        "blocks": [
+            {
+                "type": "customer",
+                "name": "Customer Name",
+                "settings": [
+                    {
+                        "type": "image_picker",
+                        "id": "img",
+                        "label": "Select your Image"
+                    },
+                    {
+                        "type": "text",
+                        "id": "text1",
+                        "label": "Put you Customer",
+                        "default": "Rudy",
+                        "info": "Rudy",
+                        "placeholder": "Rudy"
+                    },
+                    {
+                        "type": "text",
+                        "id": "text2",
+                        "label": "Please Select your text",
+                        "default": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products",
+                        "info": "The most AMAZING skincare! So easy to purchase, there are always discounts Couldn’t be happier with my purchases, I always keep topped up with all the range and again, couldn’t be happier with the outcome of using all the products",
+                        "placeholder": "The most amazing skincare ..........."
+                    }
+                ]
+            }
+        ],
+        
+        "presets": [
+            {
+              "name": "Custome Bannar"
+            }
+          ]
+    }
+  {% endschema %}
+  

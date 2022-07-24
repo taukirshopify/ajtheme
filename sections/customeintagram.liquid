@@ -1,0 +1,53 @@
+<div class="aj-instagram">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="inagram-title">
+            <h5>{{ section.settings.text }}</h5>
+          </div>
+        </div>
+        <div class="col-md-3 p-0">
+            {% for c in section.blocks %}
+          <div class="singel-intagram-imag">
+            <img src="{{c.settings.img | img_url:''}}" alt="" />
+          </div>
+        {% endfor%}
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  {% schema %}
+    {
+        "name": "Instagram Photo",
+        "class": "instagram",
+        "settings": [
+        {
+            "type": "text",
+            "id": "text",
+            "label": "Select your Title",
+            "default": "Follow Us On Instagram",
+            "info": "Follow Us On Instagram",
+            "placeholder": "Follow Us On Instagram"
+        }
+        ],
+        "blocks": [
+            {
+                "type": "Instagram",
+                "name": "instagram",
+                "settings": [
+                    {
+                        "type": "image_picker",
+                        "id": "img",
+                        "label": "Select your Image"
+                    }
+                ]
+            }
+        ]
+        
+
+    }
+  {% endschema %}
+  

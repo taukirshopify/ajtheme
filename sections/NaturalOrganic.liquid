@@ -1,0 +1,66 @@
+<div class="aj-detaild-wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="text-center">
+            <h2>{{ section.settings.text }}</h2>
+            <p>
+              {{section.settings.text1}}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-withamge">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12 p-0">
+
+          <div class="full-image-wrapper">
+            <img src="{{ section.settings.img  | img_url:'' }}" alt="">
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  {% schema %}
+    {
+        "name": "NaturalOrganic",
+        "class": "natural",
+        "settings": [
+         {
+            "type": "text",
+            "id": "texta",
+            "label": "Please Select your text",
+            "default": "Natural Organic Coconut Products .",
+       
+            "placeholder": "Natural Organic Coconut Products ."
+         },
+         {
+            "type": "text",
+            "id": "text1",
+            "label": "Please select your Paragrap",
+            "default": "We love to get creative with coconuts. See all the fun ways we've turned them into healthy, tasty foods and treats",
+       
+            "placeholder": "We love to get creative with coconuts......."
+         },
+         {
+            "type": "image_picker",
+            "id": "img",
+            "label": "Please select your Image"
+         }
+        ],
+        "presets": [
+            {
+              "name": "Custom NaturalOrganic"
+            }
+          ]
+    }
+  {% endschema %}
+  

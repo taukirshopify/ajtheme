@@ -1,0 +1,51 @@
+<section id="section-cta">
+    <div class="sep-background-mask"></div>
+    <div class="container">
+        <div class="row quick_newsletter">
+           
+                <div class="newsletter-info col-md-4  col-lg-4 col-sm-4">
+                    <h3>{{ section.settings.text }}</h3> 
+                    <p> {{ section.settings.text1 }}</p>                          
+                </div>
+                <div class="newsletter-element col-md-8 col-lg-8">
+                    <form  method="post">
+                       <div class="row">
+                        <p class="col-md-4 col-lg-4 col-sm-3"><input class="newsletter-firstname input-text" type="text" placeholder="Your Name"></p>
+                        <p class="col-md-4 col-lg-4 col-sm-3"><input class="newsletter-email input-text" type="email" placeholder="Enter email"></p>
+                        <p class="col-md-4 col-lg-2 col-sm-2"><button class="newsletter-submit btn" type="submit"><i class="fa fa-paper-plane"></i> Subscribe</button></p>
+                       </div>
+                    </form>
+                </div>
+                                                                           
+        </div>
+    </div>        
+</section>
+
+{% schema %}
+    {
+        "name": "News Latter",
+        "class": "later",
+        "settings": [
+        {
+            "type": "text",
+            "id": "text",
+            "label": "Select your text",
+            "default": "Subscribe to Newsletters",
+            "placeholder": "Subscribe to Newsletters"
+        },
+        {
+            "type": "text",
+            "id": "text1",
+            "label": "Select your text",
+            "default": "And stay informed about our news and events",
+            "placeholder": "Subscribe to Newsletters"
+        }
+        ],
+        
+        "presets": [
+            {
+              "name": "Custome NewLatter"
+            }
+          ]
+    }
+{% endschema %}
