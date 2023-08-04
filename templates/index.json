@@ -184,8 +184,8 @@
     "16586965011c4726a4": {
       "type": "NaturalOrganic",
       "settings": {
-        "text": "Mission",
-        "text1": "To produce a holistic beverage with all natural ingredients featuring the healthy benefits of our proprietary blend of all natural Green Tea, Jasmine, and Honey. Our ready-to-drink ice tea focuses on improving health while offering health-conscious consumers an alternative to sugary and chemical loaded beverages. ",
+        "text": "",
+        "text1": "",
         "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
       }
     },
@@ -299,6 +299,7 @@
     },
     "165869697357a96e77": {
       "type": "NaturalOrganic",
+      "disabled": true,
       "settings": {
         "text": "Core Values",
         "text1": "We recognize the need for an all-natural ice tea beverage that focuses on remarkable taste without all the chemicals. Our own personal food-journey began by looking at what we consume and realizing that we could do better. We are what we eat and for that to be a positive end result, we needed to hone down the ingredient list to feature a simple list of all natural, healthy options without added sugar, salt, and chemicals. The result is an honest product that focuses on premium taste and health-loaded ingredients.   Honest - You shouldn't need a PhD in science and chemistry to read and understand the label of food products. Our product list features a short list of ingredients - Green Tea, Honey, and Jasmine blended together with purified water so that all the flavor remains without the need to add sugar.   Healthy - We want our Ice Tea to be a tonic that helps consumers take in vital nutrients without sacrificing taste. When you drink our Ice Tea you get all the healthy benefits of Green Tea, Honey, and Jasmine without the additional chemicals, dyes, and calories.   Sustainable - Each of the products on our list is grown in a sustainable process that adds a positive to the environment while producing choice grade ingredients. Our ecological approach means you not only receive a healthy beverage but also one that is healthy for the environment. "
