@@ -95,6 +95,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
+    "favicon": "shopify:\/\/shop_images\/WhatsApp_Image_2022-07-21_at_5.37.56_PM.jpg",
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,

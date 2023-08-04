@@ -306,6 +306,7 @@
     },
     "16586970186ec21839": {
       "type": "customenewlatter",
+      "disabled": true,
       "settings": {
         "text": "Subscribe to Newsletters",
         "text1": "And stay informed about our news and events"
