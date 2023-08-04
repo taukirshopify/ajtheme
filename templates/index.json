@@ -74,6 +74,7 @@
     },
     "16586593256189e8b0": {
       "type": "c-bannar",
+      "disabled": true,
       "blocks": {
         "11f076e7-f39e-4329-aa5e-dd379c4dc32c": {
           "type": "BannarImage",
@@ -111,6 +112,7 @@
     },
     "16584330853aa457b6": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "16584330851218c37f-0": {
           "type": "text",
@@ -297,6 +299,73 @@
         "text": "WHAT DOES EVERYONE ELSE SAY?"
       }
     },
+    "8c86131e-1573-47e1-a3e8-43baa790d586": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Aji_Tea_Bottle_Only_230602_105942_1.jpg",
+            "title": "Jasmine Green Tea and Honey",
+            "text": "",
+            "link_label": "Buy Now",
+            "link": "shopify:\/\/products\/12-pack-aji-tea-12oz-bottle-made-with-real-tea-leaves-and-real-honey-no-high-fructose-corn-syrup-and-no-artificial-sweeteners"
+          }
+        },
+        "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AjiTeaBottleOnly_230602_105942_3.jpg",
+            "title": "Jasmine Green Tea Unsweetened",
+            "text": "",
+            "link_label": "Buy Now",
+            "link": "shopify:\/\/products\/aji-tea-jasmine-green-tea-unsweetened"
+          }
+        },
+        "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AjiTeaBottleOnly_230602_105942_4.jpg",
+            "title": "Lychee Black Tea and Honey",
+            "text": "",
+            "link_label": "Buy Now",
+            "link": "shopify:\/\/products\/aji-tea-lychee-black-tea-and-honey"
+          }
+        },
+        "bcfb1f1a-6d5c-439d-a042-c3015e996ab9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AjiTeaBottleOnly_230602_105942_2.jpg",
+            "title": "Lychee Black Tea, Honey, and Lemon",
+            "text": "",
+            "link_label": "Buy Now",
+            "link": "shopify:\/\/products\/aji-tea-lychee-black-tea-honey-and-lemon"
+          }
+        }
+      },
+      "block_order": [
+        "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-1",
+        "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-2",
+        "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-3",
+        "bcfb1f1a-6d5c-439d-a042-c3015e996ab9"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "165869697357a96e77": {
       "type": "NaturalOrganic",
       "disabled": true,
@@ -385,6 +454,54 @@
       "settings": {
         "text": ""
       }
+    },
+    "04b751fb-4168-4d21-867d-e0297ce8b1aa": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--16268721422580__04b751fb-4168-4d21-867d-e0297ce8b1aa-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16268721422580__04b751fb-4168-4d21-867d-e0297ce8b1aa-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16268721422580__04b751fb-4168-4d21-867d-e0297ce8b1aa-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16268721422580__04b751fb-4168-4d21-867d-e0297ce8b1aa-heading-1",
+        "template--16268721422580__04b751fb-4168-4d21-867d-e0297ce8b1aa-text-1",
+        "template--16268721422580__04b751fb-4168-4d21-867d-e0297ce8b1aa-buttons-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -395,9 +512,11 @@
     "16586965011c4726a4",
     "16586966308118a476",
     "16586967202ba29786",
+    "8c86131e-1573-47e1-a3e8-43baa790d586",
     "165869697357a96e77",
     "16586970186ec21839",
     "1658700721a90d5345",
-    "1658698973c37072ae"
+    "1658698973c37072ae",
+    "04b751fb-4168-4d21-867d-e0297ce8b1aa"
   ]
 }
