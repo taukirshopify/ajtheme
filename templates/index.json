@@ -60,7 +60,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-07-03_at_7.10.02_PM.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -264,11 +263,11 @@
     },
     "16586967202ba29786": {
       "type": "custome-review",
+      "disabled": true,
       "blocks": {
         "2c9ab869-552f-4a90-a8b0-fe9c77aebc05": {
           "type": "customer",
           "settings": {
-            "img": "shopify:\/\/shop_images\/image2.jpg",
             "text1": "Rudy",
             "text2": "Six Element of a Cohesive Concept:  <br> • Pain point - to solve the problem that health conscious consumers face when choosing ready-to-consume beverages -Excellent taste with pure and all natural ingredients and a final product free of extra chemicals, toxins, full of sugar.  <br> • Value proposition - We help consumers by producing an all natural ice tea beverage that resonates with their desire to enjoy premium taste with a short list of all natural ingredients and a product that is free of added chemicals and sugar.  <br> • Product - Ready-to-consume Green Tea Beverage with Jasmine and Honey and free of added sugar, toxins, and chemicals <br> • Core consumer - Our core consumer is focused on healthy food choices that are sustainably grown, with all natural ingredients. They expect a consistent experience through consumption of quality beverages that address their health concerns, environmental concerns, and quality of life.  <br> • Market - Boutique, healthy, and all natural beverages  <br> • Brand - all natural Green Tea infused with wholesome and healthy notes provided by quality all natural Jasmine and Honey."
           }
@@ -276,7 +275,6 @@
         "6ce533a2-c15f-4ebd-906d-055c7ed97276": {
           "type": "customer",
           "settings": {
-            "img": "shopify:\/\/shop_images\/WhatsApp_Image_2022-07-25_at_4.32.28_AM.jpg",
             "text1": "Rudy",
             "text2": "Six Element of a Cohesive Concept:  <br> • Pain point - to solve the problem that health conscious consumers face when choosing ready-to-consume beverages -Excellent taste with pure and all natural ingredients and a final product free of extra chemicals, toxins, full of sugar.  <br> • Value proposition - We help consumers by producing an all natural ice tea beverage that resonates with their desire to enjoy premium taste with a short list of all natural ingredients and a product that is free of added chemicals and sugar.  <br> • Product - Ready-to-consume Green Tea Beverage with Jasmine and Honey and free of added sugar, toxins, and chemicals <br> • Core consumer - Our core consumer is focused on healthy food choices that are sustainably grown, with all natural ingredients. They expect a consistent experience through consumption of quality beverages that address their health concerns, environmental concerns, and quality of life.  <br> • Market - Boutique, healthy, and all natural beverages  <br> • Brand - all natural Green Tea infused with wholesome and healthy notes provided by quality all natural Jasmine and Honey."
           }
@@ -284,7 +282,6 @@
         "1bb6aaf8-e175-4697-a6f4-490f64f2a56d": {
           "type": "customer",
           "settings": {
-            "img": "shopify:\/\/shop_images\/WhatsApp_Image_2022-07-17_at_11.16.01_PM.jpg",
             "text1": "Rudy",
             "text2": "Six Element of a Cohesive Concept:  <br> • Pain point - to solve the problem that health conscious consumers face when choosing ready-to-consume beverages -Excellent taste with pure and all natural ingredients and a final product free of extra chemicals, toxins, full of sugar.  <br> • Value proposition - We help consumers by producing an all natural ice tea beverage that resonates with their desire to enjoy premium taste with a short list of all natural ingredients and a product that is free of added chemicals and sugar.  <br> • Product - Ready-to-consume Green Tea Beverage with Jasmine and Honey and free of added sugar, toxins, and chemicals <br> • Core consumer - Our core consumer is focused on healthy food choices that are sustainably grown, with all natural ingredients. They expect a consistent experience through consumption of quality beverages that address their health concerns, environmental concerns, and quality of life.  <br> • Market - Boutique, healthy, and all natural beverages  <br> • Brand - all natural Green Tea infused with wholesome and healthy notes provided by quality all natural Jasmine and Honey."
           }
@@ -303,8 +300,7 @@
       "type": "NaturalOrganic",
       "settings": {
         "text": "Core Values",
-        "text1": "We recognize the need for an all-natural ice tea beverage that focuses on remarkable taste without all the chemicals. Our own personal food-journey began by looking at what we consume and realizing that we could do better. We are what we eat and for that to be a positive end result, we needed to hone down the ingredient list to feature a simple list of all natural, healthy options without added sugar, salt, and chemicals. The result is an honest product that focuses on premium taste and health-loaded ingredients.   Honest - You shouldn't need a PhD in science and chemistry to read and understand the label of food products. Our product list features a short list of ingredients - Green Tea, Honey, and Jasmine blended together with purified water so that all the flavor remains without the need to add sugar.   Healthy - We want our Ice Tea to be a tonic that helps consumers take in vital nutrients without sacrificing taste. When you drink our Ice Tea you get all the healthy benefits of Green Tea, Honey, and Jasmine without the additional chemicals, dyes, and calories.   Sustainable - Each of the products on our list is grown in a sustainable process that adds a positive to the environment while producing choice grade ingredients. Our ecological approach means you not only receive a healthy beverage but also one that is healthy for the environment. ",
-        "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Mission.jpg"
+        "text1": "We recognize the need for an all-natural ice tea beverage that focuses on remarkable taste without all the chemicals. Our own personal food-journey began by looking at what we consume and realizing that we could do better. We are what we eat and for that to be a positive end result, we needed to hone down the ingredient list to feature a simple list of all natural, healthy options without added sugar, salt, and chemicals. The result is an honest product that focuses on premium taste and health-loaded ingredients.   Honest - You shouldn't need a PhD in science and chemistry to read and understand the label of food products. Our product list features a short list of ingredients - Green Tea, Honey, and Jasmine blended together with purified water so that all the flavor remains without the need to add sugar.   Healthy - We want our Ice Tea to be a tonic that helps consumers take in vital nutrients without sacrificing taste. When you drink our Ice Tea you get all the healthy benefits of Green Tea, Honey, and Jasmine without the additional chemicals, dyes, and calories.   Sustainable - Each of the products on our list is grown in a sustainable process that adds a positive to the environment while producing choice grade ingredients. Our ecological approach means you not only receive a healthy beverage but also one that is healthy for the environment. "
       }
     },
     "16586970186ec21839": {
@@ -317,7 +313,7 @@
     "1658700721a90d5345": {
       "type": "customeintagrambutton",
       "settings": {
-        "text": "Instagram",
+        "text": "Find Us On Instagram!",
         "link": ""
       }
     },
@@ -327,49 +323,41 @@
         "08d1168e-a542-42ac-87b9-ea1a41eaf42f": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
           }
         },
         "9df541d4-3728-4dd2-8d4a-4415bb75f881": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
           }
         },
         "151bbb85-7fc2-4cfa-8c99-99afa8a8c231": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
           }
         },
         "50c8158a-30c5-40b2-8442-ec42cf8815ee": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
           }
         },
         "c77d6b96-a6fb-4f12-a41e-e8eda0c45329": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
           }
         },
         "47a95e48-0db7-4a57-b71e-e57040fc30f9": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
           }
         },
         "8aac2d46-cd23-4788-b07c-619913da369c": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
           }
         },
         "0e4ac012-debf-4391-a1b4-ea147bf91635": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/intagramimage.jpg"
           }
         }
       },
