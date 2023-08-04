@@ -291,14 +291,6 @@
         "text": "WHAT DOES EVERYONE ELSE SAY?"
       }
     },
-    "16586965011c4726a4": {
-      "type": "NaturalOrganic",
-      "settings": {
-        "text": "",
-        "text1": "",
-        "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
-      }
-    },
     "8c86131e-1573-47e1-a3e8-43baa790d586": {
       "type": "multicolumn",
       "blocks": {
@@ -364,6 +356,14 @@
         "swipe_on_mobile": false,
         "padding_top": 16,
         "padding_bottom": 16
+      }
+    },
+    "16586965011c4726a4": {
+      "type": "NaturalOrganic",
+      "settings": {
+        "text": "",
+        "text1": "",
+        "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
       }
     },
     "165869697357a96e77": {
@@ -511,8 +511,8 @@
     "16584330853aa457b6",
     "16586966308118a476",
     "16586967202ba29786",
-    "16586965011c4726a4",
     "8c86131e-1573-47e1-a3e8-43baa790d586",
+    "16586965011c4726a4",
     "165869697357a96e77",
     "16586970186ec21839",
     "1658700721a90d5345",
