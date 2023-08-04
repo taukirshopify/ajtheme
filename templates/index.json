@@ -183,14 +183,6 @@
         "padding_bottom": 36
       }
     },
-    "16586965011c4726a4": {
-      "type": "NaturalOrganic",
-      "settings": {
-        "text": "",
-        "text1": "",
-        "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
-      }
-    },
     "16586966308118a476": {
       "type": "featured-product",
       "disabled": true,
@@ -299,6 +291,14 @@
         "text": "WHAT DOES EVERYONE ELSE SAY?"
       }
     },
+    "16586965011c4726a4": {
+      "type": "NaturalOrganic",
+      "settings": {
+        "text": "",
+        "text1": "",
+        "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
+      }
+    },
     "8c86131e-1573-47e1-a3e8-43baa790d586": {
       "type": "multicolumn",
       "blocks": {
@@ -350,20 +350,20 @@
         "bcfb1f1a-6d5c-439d-a042-c3015e996ab9"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Our Drinks",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "button_label": "Shop All Drinks",
+        "button_link": "shopify:\/\/collections\/all",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "165869697357a96e77": {
@@ -509,9 +509,9 @@
     "image-with-text",
     "16586593256189e8b0",
     "16584330853aa457b6",
-    "16586965011c4726a4",
     "16586966308118a476",
     "16586967202ba29786",
+    "16586965011c4726a4",
     "8c86131e-1573-47e1-a3e8-43baa790d586",
     "165869697357a96e77",
     "16586970186ec21839",
