@@ -326,21 +326,25 @@
         "08d1168e-a542-42ac-87b9-ea1a41eaf42f": {
           "type": "Instagram",
           "settings": {
+            "img": "shopify:\/\/shop_images\/327051814_3294935447503314_5297889568492857300_n.jpg"
           }
         },
         "9df541d4-3728-4dd2-8d4a-4415bb75f881": {
           "type": "Instagram",
           "settings": {
+            "img": "shopify:\/\/shop_images\/364162505_1351000078862560_2222296607552541190_n.jpg"
           }
         },
         "151bbb85-7fc2-4cfa-8c99-99afa8a8c231": {
           "type": "Instagram",
           "settings": {
+            "img": "shopify:\/\/shop_images\/357451481_6379383338793301_7801113014819583878_n.jpg"
           }
         },
         "50c8158a-30c5-40b2-8442-ec42cf8815ee": {
           "type": "Instagram",
           "settings": {
+            "img": "shopify:\/\/shop_images\/348713309_1288784045375739_2104891952122596199_n.jpg"
           }
         },
         "c77d6b96-a6fb-4f12-a41e-e8eda0c45329": {
@@ -375,7 +379,7 @@
         "0e4ac012-debf-4391-a1b4-ea147bf91635"
       ],
       "settings": {
-        "text": "Follow Us On Instagram"
+        "text": ""
       }
     }
   },
