@@ -296,6 +296,7 @@
       "blocks": {
         "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Aji_Tea_Bottle_Only_230602_105942_1.jpg",
             "title": "Jasmine Green Tea and Honey",
@@ -306,6 +307,7 @@
         },
         "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/AjiTeaBottleOnly_230602_105942_3.jpg",
             "title": "Jasmine Green Tea Unsweetened",
@@ -316,6 +318,7 @@
         },
         "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/AjiTeaBottleOnly_230602_105942_4.jpg",
             "title": "Lychee Black Tea and Honey",
@@ -326,6 +329,7 @@
         },
         "bcfb1f1a-6d5c-439d-a042-c3015e996ab9": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/AjiTeaBottleOnly_230602_105942_2.jpg",
             "title": "Lychee Black Tea, Honey, and Lemon",
