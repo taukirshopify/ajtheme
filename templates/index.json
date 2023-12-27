@@ -386,6 +386,7 @@
     },
     "16586965011c4726a4": {
       "type": "NaturalOrganic",
+      "disabled": true,
       "settings": {
         "text": "",
         "text1": "",
