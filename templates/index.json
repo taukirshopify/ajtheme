@@ -338,16 +338,6 @@
             "link": "shopify:\/\/products\/aji-tea-lychee-black-tea-honey-and-lemon"
           }
         },
-        "a4fd9888-d22a-4215-ae5c-2f375b5d1d74": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sparkling_Lychee.jpg",
-            "title": "Sparkling Lychee Black Tea and Honey",
-            "text": "",
-            "link_label": "More Details",
-            "link": "shopify:\/\/products\/aji-tea-sparkling-lychee-black-tea-and-honey-case-of-12"
-          }
-        },
         "a05dd495-14f9-49a3-bc1c-26e9b1b808c1": {
           "type": "column",
           "settings": {
@@ -356,6 +346,16 @@
             "text": "",
             "link_label": "More Details",
             "link": "shopify:\/\/products\/aji-tea-sparkling-jasmine-green-tea-and-honey-case-of-12"
+          }
+        },
+        "a4fd9888-d22a-4215-ae5c-2f375b5d1d74": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sparkling_Lychee.jpg",
+            "title": "Sparkling Lychee Black Tea and Honey",
+            "text": "",
+            "link_label": "More Details",
+            "link": "shopify:\/\/products\/aji-tea-sparkling-lychee-black-tea-and-honey-case-of-12"
           }
         },
         "b4024f26-8036-4e42-af30-127daaf6e8d7": {
@@ -374,8 +374,8 @@
         "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-2",
         "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-3",
         "bcfb1f1a-6d5c-439d-a042-c3015e996ab9",
-        "a4fd9888-d22a-4215-ae5c-2f375b5d1d74",
         "a05dd495-14f9-49a3-bc1c-26e9b1b808c1",
+        "a4fd9888-d22a-4215-ae5c-2f375b5d1d74",
         "b4024f26-8036-4e42-af30-127daaf6e8d7"
       ],
       "settings": {
