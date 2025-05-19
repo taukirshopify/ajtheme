@@ -539,6 +539,30 @@
     "1658698973c37072ae": {
       "type": "customeintagram",
       "blocks": {
+        "instagram_nrpPdc": {
+          "type": "Instagram",
+          "settings": {
+            "img": "shopify://shop_images/1000084332.jpg"
+          }
+        },
+        "instagram_VGHiz7": {
+          "type": "Instagram",
+          "settings": {
+            "img": "shopify://shop_images/rn-image_picker_lib_temp_b764d1a0-e402-472d-8545-0d5e685c0a8f.jpg"
+          }
+        },
+        "instagram_irimBF": {
+          "type": "Instagram",
+          "settings": {
+            "img": "shopify://shop_images/1000082969.jpg"
+          }
+        },
+        "instagram_NCyMbF": {
+          "type": "Instagram",
+          "settings": {
+            "img": "shopify://shop_images/1000084548_1.jpg"
+          }
+        },
         "08d1168e-a542-42ac-87b9-ea1a41eaf42f": {
           "type": "Instagram",
           "settings": {
@@ -561,24 +585,6 @@
           "type": "Instagram",
           "settings": {
             "img": "shopify://shop_images/348713309_1288784045375739_2104891952122596199_n.jpg"
-          }
-        },
-        "instagram_VGHiz7": {
-          "type": "Instagram",
-          "settings": {
-            "img": "shopify://shop_images/rn-image_picker_lib_temp_b764d1a0-e402-472d-8545-0d5e685c0a8f.jpg"
-          }
-        },
-        "instagram_irimBF": {
-          "type": "Instagram",
-          "settings": {
-            "img": "shopify://shop_images/1000082969.jpg"
-          }
-        },
-        "instagram_NCyMbF": {
-          "type": "Instagram",
-          "settings": {
-            "img": "shopify://shop_images/1000084548_1.jpg"
           }
         },
         "c77d6b96-a6fb-4f12-a41e-e8eda0c45329": {
@@ -604,27 +610,21 @@
           "settings": {
             "img": "shopify://shop_images/330367336_701451048369964_8664573524088900722_n.jpg"
           }
-        },
-        "instagram_nrpPdc": {
-          "type": "Instagram",
-          "settings": {
-            "img": "shopify://shop_images/1000084332.jpg"
-          }
         }
       },
       "block_order": [
+        "instagram_nrpPdc",
+        "instagram_VGHiz7",
+        "instagram_irimBF",
+        "instagram_NCyMbF",
         "08d1168e-a542-42ac-87b9-ea1a41eaf42f",
         "9df541d4-3728-4dd2-8d4a-4415bb75f881",
         "151bbb85-7fc2-4cfa-8c99-99afa8a8c231",
         "50c8158a-30c5-40b2-8442-ec42cf8815ee",
-        "instagram_VGHiz7",
-        "instagram_irimBF",
-        "instagram_NCyMbF",
         "c77d6b96-a6fb-4f12-a41e-e8eda0c45329",
         "47a95e48-0db7-4a57-b71e-e57040fc30f9",
         "8aac2d46-cd23-4788-b07c-619913da369c",
-        "0e4ac012-debf-4391-a1b4-ea147bf91635",
-        "instagram_nrpPdc"
+        "0e4ac012-debf-4391-a1b4-ea147bf91635"
       ],
       "settings": {
         "text": ""
