@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "featured-collection-1": {
@@ -41,7 +50,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>All-natural Aji Tea with Green Tea, Jasmine, and Honey (16oz)<\/p>",
+            "text": "<p>All-natural Aji Tea with Green Tea, Jasmine, and Honey (16oz)</p>",
             "text_style": "body"
           }
         },
@@ -78,25 +87,25 @@
         "11f076e7-f39e-4329-aa5e-dd379c4dc32c": {
           "type": "BannarImage",
           "settings": {
-            "img": "shopify:\/\/shop_images\/image-002.png"
+            "img": "shopify://shop_images/image-002.png"
           }
         },
         "610f87c4-e3b5-4aa7-a23a-fb63347c9e58": {
           "type": "BannarImage",
           "settings": {
-            "img": "shopify:\/\/shop_images\/image-001.png"
+            "img": "shopify://shop_images/image-001.png"
           }
         },
         "9a2c6edd-e239-4717-a360-faaf48370e62": {
           "type": "BannarImage",
           "settings": {
-            "img": "shopify:\/\/shop_images\/image-003.png"
+            "img": "shopify://shop_images/image-003.png"
           }
         },
         "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd": {
           "type": "BannarImage",
           "settings": {
-            "img": "shopify:\/\/shop_images\/image-005.png"
+            "img": "shopify://shop_images/image-005.png"
           }
         }
       },
@@ -107,8 +116,7 @@
         "4b5967f6-29c3-4b18-84d7-0d79ef0f3bcd"
       ],
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "16584330853aa457b6": {
       "type": "featured-product",
@@ -135,8 +143,7 @@
         },
         "16584330851218c37f-3": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "16584330851218c37f-4": {
           "type": "variant_picker",
@@ -146,8 +153,7 @@
         },
         "16584330851218c37f-5": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "16584330851218c37f-6": {
           "type": "buy_buttons",
@@ -208,8 +214,7 @@
         },
         "16586966306addec05-3": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "16586966306addec05-4": {
           "type": "variant_picker",
@@ -219,8 +224,7 @@
         },
         "16586966306addec05-5": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "16586966306addec05-6": {
           "type": "buy_buttons",
@@ -298,74 +302,74 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Aji_Tea_Bottle_Only_230602_105942_1.jpg",
+            "image": "shopify://shop_images/Aji_Tea_Bottle_Only_230602_105942_1.jpg",
             "title": "Jasmine Green Tea and Honey",
             "text": "",
             "link_label": "More Details",
-            "link": "shopify:\/\/products\/12-pack-aji-tea-12oz-bottle-made-with-real-tea-leaves-and-real-honey-no-high-fructose-corn-syrup-and-no-artificial-sweeteners"
+            "link": "shopify://products/12-pack-aji-tea-12oz-bottle-made-with-real-tea-leaves-and-real-honey-no-high-fructose-corn-syrup-and-no-artificial-sweeteners"
           }
         },
         "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-2": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/AjiTeaBottleOnly_230602_105942_3.jpg",
+            "image": "shopify://shop_images/AjiTeaBottleOnly_230602_105942_3.jpg",
             "title": "Jasmine Green Tea Unsweetened",
             "text": "",
             "link_label": "More Details",
-            "link": "shopify:\/\/products\/aji-tea-jasmine-green-tea-unsweetened"
+            "link": "shopify://products/aji-tea-jasmine-green-tea-unsweetened"
           }
         },
         "template--16268721422580__8c86131e-1573-47e1-a3e8-43baa790d586-column-3": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/AjiTeaBottleOnly_230602_105942_4.jpg",
+            "image": "shopify://shop_images/AjiTeaBottleOnly_230602_105942_4.jpg",
             "title": "Lychee Black Tea and Honey",
             "text": "",
             "link_label": "More Details",
-            "link": "shopify:\/\/products\/aji-tea-lychee-black-tea-and-honey"
+            "link": "shopify://products/aji-tea-lychee-black-tea-and-honey"
           }
         },
         "bcfb1f1a-6d5c-439d-a042-c3015e996ab9": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/AjiTeaBottleOnly_230602_105942_2.jpg",
+            "image": "shopify://shop_images/AjiTeaBottleOnly_230602_105942_2.jpg",
             "title": "Lychee Black Tea, Honey, and Lemon",
             "text": "",
             "link_label": "More Details",
-            "link": "shopify:\/\/products\/aji-tea-lychee-black-tea-honey-and-lemon"
+            "link": "shopify://products/aji-tea-lychee-black-tea-honey-and-lemon"
           }
         },
         "a05dd495-14f9-49a3-bc1c-26e9b1b808c1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sparkling_Jasmine.jpg",
+            "image": "shopify://shop_images/Sparkling_Jasmine.jpg",
             "title": "Sparkling Jasmine Green Tea and Honey",
             "text": "",
             "link_label": "More Details",
-            "link": "shopify:\/\/products\/aji-tea-sparkling-jasmine-green-tea-and-honey-case-of-12"
+            "link": "shopify://products/aji-tea-sparkling-jasmine-green-tea-and-honey-case-of-12"
           }
         },
         "a4fd9888-d22a-4215-ae5c-2f375b5d1d74": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sparkling_Lychee.jpg",
+            "image": "shopify://shop_images/Sparkling_Lychee.jpg",
             "title": "Sparkling Lychee Black Tea and Honey",
             "text": "",
             "link_label": "More Details",
-            "link": "shopify:\/\/products\/aji-tea-sparkling-lychee-black-tea-and-honey-case-of-12"
+            "link": "shopify://products/aji-tea-sparkling-lychee-black-tea-and-honey-case-of-12"
           }
         },
         "b4024f26-8036-4e42-af30-127daaf6e8d7": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sparkling_Mixed_Pack.png",
+            "image": "shopify://shop_images/Sparkling_Mixed_Pack.png",
             "title": "Sparkling Tea Mixed Case",
             "text": "",
             "link_label": "More Details",
-            "link": "shopify:\/\/products\/aji-tea-sparkling-tea-mixed-case-case-of-12"
+            "link": "shopify://products/aji-tea-sparkling-tea-mixed-case-case-of-12"
           }
         }
       },
@@ -378,6 +382,7 @@
         "a4fd9888-d22a-4215-ae5c-2f375b5d1d74",
         "b4024f26-8036-4e42-af30-127daaf6e8d7"
       ],
+      "disabled": true,
       "settings": {
         "title": "Our Drinks",
         "heading_size": "h1",
@@ -387,7 +392,111 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Shop All Drinks",
-        "button_link": "shopify:\/\/collections\/all",
+        "button_link": "shopify://collections/all",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_CpiWyz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_mcRLFj": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Aji_Tea_Bottle_Only_230602_105942_1.jpg",
+            "title": "Jasmine Green Tea and Honey",
+            "text": "",
+            "link_label": "More Details",
+            "link": "shopify://products/12-pack-aji-tea-12oz-bottle-made-with-real-tea-leaves-and-real-honey-no-high-fructose-corn-syrup-and-no-artificial-sweeteners"
+          }
+        },
+        "column_tcVXhj": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/AjiTeaBottleOnly_230602_105942_3.jpg",
+            "title": "Jasmine Green Tea Unsweetened",
+            "text": "",
+            "link_label": "More Details",
+            "link": "shopify://products/aji-tea-jasmine-green-tea-unsweetened"
+          }
+        },
+        "column_8ciRd7": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/AjiTeaBottleOnly_230602_105942_4.jpg",
+            "title": "Lychee Black Tea and Honey",
+            "text": "",
+            "link_label": "More Details",
+            "link": "shopify://products/aji-tea-lychee-black-tea-and-honey"
+          }
+        },
+        "column_pmPNyV": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/AjiTeaBottleOnly_230602_105942_2.jpg",
+            "title": "Lychee Black Tea, Honey, and Lemon",
+            "text": "",
+            "link_label": "More Details",
+            "link": "shopify://products/aji-tea-lychee-black-tea-honey-and-lemon"
+          }
+        },
+        "column_Redeyj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/rn-image_picker_lib_temp_0d8d9742-eda0-499b-a3fa-520fd63a391c.png",
+            "title": "Sparkling Jasmine Green Tea and Honey",
+            "text": "",
+            "link_label": "More Details",
+            "link": "shopify://products/aji-tea-sparkling-jasmine-green-tea-and-honey-case-of-12"
+          }
+        },
+        "column_T3Qnij": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/rn-image_picker_lib_temp_6eddb9a5-0bd4-4a1e-837c-c5c4fcb462ef.png",
+            "title": "Sparkling Lychee Black Tea and Honey",
+            "text": "",
+            "link_label": "More Details",
+            "link": "shopify://products/aji-tea-sparkling-lychee-black-tea-and-honey-case-of-12"
+          }
+        },
+        "column_CfpnXm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/rn-image_picker_lib_temp_ec9adca8-66a3-4361-9fa0-94c12787fd29.png",
+            "title": "Sparkling Tea Mixed Case",
+            "text": "",
+            "link_label": "More Details",
+            "link": "shopify://products/aji-tea-sparkling-tea-mixed-case-case-of-12"
+          }
+        }
+      },
+      "block_order": [
+        "column_mcRLFj",
+        "column_tcVXhj",
+        "column_8ciRd7",
+        "column_pmPNyV",
+        "column_Redeyj",
+        "column_T3Qnij",
+        "column_CfpnXm"
+      ],
+      "settings": {
+        "title": "Our Drinks",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Shop All Drinks",
+        "button_link": "shopify://collections/all",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -401,7 +510,7 @@
       "settings": {
         "text": "",
         "text1": "",
-        "img": "shopify:\/\/shop_images\/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
+        "img": "shopify://shop_images/Aji-Tea-One-Pager---Horizontal-Extended-Information-_1.jpg"
       }
     },
     "165869697357a96e77": {
@@ -424,7 +533,7 @@
       "type": "customeintagrambutton",
       "settings": {
         "text": "Find Us On Instagram!",
-        "link": "https:\/\/www.instagram.com\/drinkajitea"
+        "link": "https://www.instagram.com/drinkajitea"
       }
     },
     "1658698973c37072ae": {
@@ -433,49 +542,49 @@
         "08d1168e-a542-42ac-87b9-ea1a41eaf42f": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/327051814_3294935447503314_5297889568492857300_n.jpg"
+            "img": "shopify://shop_images/327051814_3294935447503314_5297889568492857300_n.jpg"
           }
         },
         "9df541d4-3728-4dd2-8d4a-4415bb75f881": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/364162505_1351000078862560_2222296607552541190_n.jpg"
+            "img": "shopify://shop_images/364162505_1351000078862560_2222296607552541190_n.jpg"
           }
         },
         "151bbb85-7fc2-4cfa-8c99-99afa8a8c231": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/357451481_6379383338793301_7801113014819583878_n.jpg"
+            "img": "shopify://shop_images/357451481_6379383338793301_7801113014819583878_n.jpg"
           }
         },
         "50c8158a-30c5-40b2-8442-ec42cf8815ee": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/348713309_1288784045375739_2104891952122596199_n.jpg"
+            "img": "shopify://shop_images/348713309_1288784045375739_2104891952122596199_n.jpg"
           }
         },
         "c77d6b96-a6fb-4f12-a41e-e8eda0c45329": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/333075911_913883643086086_2071146438689688544_n.jpg"
+            "img": "shopify://shop_images/333075911_913883643086086_2071146438689688544_n.jpg"
           }
         },
         "47a95e48-0db7-4a57-b71e-e57040fc30f9": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/330057755_1492410684909845_1278018260250427695_n.jpg"
+            "img": "shopify://shop_images/330057755_1492410684909845_1278018260250427695_n.jpg"
           }
         },
         "8aac2d46-cd23-4788-b07c-619913da369c": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/322726828_713551940419852_2783808697631630103_n.jpg"
+            "img": "shopify://shop_images/322726828_713551940419852_2783808697631630103_n.jpg"
           }
         },
         "0e4ac012-debf-4391-a1b4-ea147bf91635": {
           "type": "Instagram",
           "settings": {
-            "img": "shopify:\/\/shop_images\/330367336_701451048369964_8664573524088900722_n.jpg"
+            "img": "shopify://shop_images/330367336_701451048369964_8664573524088900722_n.jpg"
           }
         }
       },
@@ -550,6 +659,7 @@
     "16586966308118a476",
     "16586967202ba29786",
     "8c86131e-1573-47e1-a3e8-43baa790d586",
+    "multicolumn_CpiWyz",
     "16586965011c4726a4",
     "165869697357a96e77",
     "16586970186ec21839",
